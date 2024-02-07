@@ -1,6 +1,23 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## dependecies
+  node: v18.13.0
+
+## installation
+### clone the Repo
+    git clone https://github.com/raghavendra990/demo-web.git
+    cd demo-web
+
+### install dependecies.
+    npm install
+    touch .env
+### open .env file and add below URL to backend app
+    REACT_APP_BE_HOST="http://127.0.0.1:8000"
+
+### run the application
+    npm start
+
 
 ## Available Scripts
 
